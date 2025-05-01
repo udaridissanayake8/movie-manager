@@ -14,7 +14,7 @@ Movie Manager is a simple application designed to help users manage their movie 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/movie-manager.git
+    git clone https://github.com/udaridissanayake8/movie-manager
     ```
 2. Navigate to the project directory:
     ```bash
